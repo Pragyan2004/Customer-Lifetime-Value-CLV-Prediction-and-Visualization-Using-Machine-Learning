@@ -43,16 +43,15 @@ Step 3: Model Training & Evaluation
 
 Comparison (R² and RMSE)
 
-![Screenshot 2025-06-05 084507](https://github.com/user-attachments/assets/16438796-7309-4b31-b38c-3b9f9539003c)
-
+![Screenshot 2025-06-05 084658](https://github.com/user-attachments/assets/830ad032-b716-4e36-bea7-79d4a8943a52)
 
 Actual vs Predicted (Gradient Boosting)
 
-![Screenshot 2025-06-05 084516](https://github.com/user-attachments/assets/c42a478a-0287-4845-93f0-b7992de8c20c)
+![Screenshot 2025-06-05 084507](https://github.com/user-attachments/assets/4b05c8ea-b996-4201-a113-9bfc8cf17eb4)
 
 Feature Importance
 
-![Screenshot 2025-06-05 083711](https://github.com/user-attachments/assets/3035bea3-f895-43bd-9671-70b92728a26f)
+![Screenshot 2025-06-05 084516](https://github.com/user-attachments/assets/c42a478a-0287-4845-93f0-b7992de8c20c)
 
 CLV Distribution
 
