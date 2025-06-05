@@ -55,7 +55,7 @@ Feature Importance
 
 CLV Distribution
 
-![Screenshot 2025-06-05 083724](https://github.com/user-attachments/assets/ae5e43d4-7020-4400-b532-7cc6301ddd8e)
+![Screenshot 2025-06-05 084735](https://github.com/user-attachments/assets/efc8dc22-cee4-4988-bc82-7883ede4f73e)
 
 Recency vs CLV
 
