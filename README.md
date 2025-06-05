@@ -7,6 +7,7 @@ This project focuses on predicting the Customer Lifetime Value (CLV) using histo
 # Dataset
 
 Source: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset?resource=download
+
 File Used: online_retail_II.xlsx
 
 
@@ -20,7 +21,7 @@ Monetary: Total spending (CLV).
 
 Country: Customer location.
 
-#Technologies Used
+# Technologies Used
 
 Python
 
@@ -42,11 +43,12 @@ Step 3: Model Training & Evaluation
 
 Comparison (R² and RMSE)
 
-Model![Screenshot 2025-06-05 083953](https://github.com/user-attachments/assets/0216e137-02ee-45c8-b0d7-975d6652f4dc)
+![Screenshot 2025-06-05 084507](https://github.com/user-attachments/assets/16438796-7309-4b31-b38c-3b9f9539003c)
+
 
 Actual vs Predicted (Gradient Boosting)
 
-![Screenshot 2025-06-05 083644](https://github.com/user-attachments/assets/ea5b736e-c5d6-46f9-b603-e2240056827d)
+![Screenshot 2025-06-05 084516](https://github.com/user-attachments/assets/c42a478a-0287-4845-93f0-b7992de8c20c)
 
 Feature Importance
 
